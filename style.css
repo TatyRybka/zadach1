@@ -1,0 +1,46 @@
+header {
+    text-align:center;
+    color:aqua;
+    background-color: black;
+}
+
+header {
+    padding: 20px;
+    text-align:center;
+    color:aqua;
+    background-color: black;
+}
+
+header a {
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+}
+
+header img {
+    width: 200px;
+    height: 60px;
+}
+
+main img  {
+width: 200px;
+    height: 200px;
+   
+}
+
+p  {
+border: 10px solid aqua ; 
+border-color: aqua;  
+border-radius: 10px; 
+padding: 5px;
+}
+
+body {
+margin: 20px;
+padding: 20px;    
+}
